@@ -10,6 +10,7 @@ main1
 main2
 main3
 main6
+main8
 d1
 d4
 d5
