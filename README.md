@@ -7,7 +7,3 @@ git checkout -b dev
 ```
 
 main1
-
-test-dev
-
-dev2
