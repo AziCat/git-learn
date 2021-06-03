@@ -5,6 +5,3 @@
 //创建分支
 git checkout -b dev
 ```
-
-m1
-m2
